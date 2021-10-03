@@ -1,6 +1,5 @@
-# Hi there! 👋🏻 <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! I am Angel 👋🏻 <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Angel, cat lover, and love painting 🎨.
 
 🌱 I’m currently learning Python, Matplotlib, and Digital Marketing
 
