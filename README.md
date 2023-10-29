@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color:white; font-family: poppins;">Hi here, I'm Angel 👋</h1>
+<h1 align="center" style="color:white; font-family: poppins;">Hi there, I'm Angel 👋</h1>
 <h3 align="center" style="color:white;">A enthusiastic and passionate frontend development from Indonesia</h3>
 
 ⚡ Fun fact : **Love to design web 💖**
