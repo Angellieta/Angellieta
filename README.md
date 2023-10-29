@@ -2,7 +2,7 @@
 <h1 align="center" style="color:white;">Hi there, I'm Angel 👋</h1>
 <h3 align="center" style="color:white;">A enthusiastic and passionate frontend development from Indonesia</h3>
 
-<p align="center">⚡ Fun Fact : **Cat lovers and hobbies to playing badminton 😼💖** </p>
+<p align="center">⚡ Fun Fact : Cat lovers and hobbies to playing badminton 😼💖 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
