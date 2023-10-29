@@ -2,7 +2,7 @@
 <h1 align="center" style="color:white; font-family: poppins;">Hi there, I'm Angel 👋</h1>
 <h3 align="center" style="color:white;">A enthusiastic and passionate frontend development from Indonesia</h3>
 
-⚡**Love to design web as well💖**
+⚡ Fun Fact : **Cat Lovers💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
