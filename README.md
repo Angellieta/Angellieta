@@ -1,43 +1,92 @@
-<h1 align="center" style="color:white;">Hi there, I'm Angel 👋</h1>
-<h3 align="center" style="color:white;">A enthusiastic and passionate frontend development from Indonesia</h3>
+<h1 align="center" style="color:white;">Hi there, I'm Angel Lieta👋</h1>
+<h3 align="center" style="color:white;">A Enthusiastic and Passionate Frontend Development, Indonesia</h3>
 
 <p align="center">⚡ Fun Fact : Cat lovers and hobbies to playing badminton 😼💖 </p>
+<p align="center">
+  <a href="https://github.com/USERNAME_GITHUB">
+      <img src="https://komarev.com/ghpvc/?username=angellieta&style=flat-square&color=blue" alt="Profile Views"/></a>
+</p>
+
+<h2></h2>
+
+<h3>About Me</h3>
+<p> ⭐ Freshgraduate with hands-on experience using ReactJS and Tailwind CSS. Started my journey as a Web Development Intern where I built websites using HTML, CSS, JavaScript, PHP, and SQL. </p>
+<p> 🚀 Graduate of Bangkit 2023 - Cloud Computing path, I gained foundational knowledge of Google Cloud Platform (GCP). My goal is to craft responsive, accessible, and AI-powered user interfaces that deliver real impact. I’m a fast learner and always curious to explore new tools and technologies.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/angel lieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel lieta" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" style="color:white">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="37" height="37"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/> 
-  </a> 
-</p>
+<h2></h2>
+
+<h3 align="center">My Tech Stack</h3>
+<table align="center" border="0" cellspacing="10">
+  <tr>
+    <th colspan="3" align="center" >
+      Frontend Development
+    </th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+      <br/>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/>
+      <br/>Javascript
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/> 
+      <br/>Tailwind
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3" align="center">
+    Backend & Tools
+    </th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
+      <br/>NodeJS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+      <br/>PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50"/>
+      <br/>SQL
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3" >
+    </th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/>
+      <br/>Vite
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+      <br/>Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+      <br/>Google <br/> Cloud
+    </td>
+  </tr>
+</table>
+
+<br>
+
 
 
 
