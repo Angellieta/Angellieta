@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white;">Hi there, I'm Angel Lieta👋</h1>
-<h3 align="center" style="color:white;">A Enthusiastic and Passionate Frontend Development, Indonesia</h3>
+<h3 align="center" style="color:white;">A Enthusiastic and Passionate Web Development, Indonesia</h3>
 
 <p align="center">⚡ Fun Fact : Cat lovers and hobbies to playing badminton 😼💖 </p>
 <p align="center">
